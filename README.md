@@ -1,4 +1,2 @@
-- I only really like HTML, CSS and a little JavaScript
-- and I'm not really too experienced with GitHub
-
-- Minicraft+ Revived though?? that's kinda cool...
+- My primary expertise lies in HTML and CSS, with some proficiency in JavaScript.
+- While I have limited experience with GitHub, I am eager to learn and improve.
