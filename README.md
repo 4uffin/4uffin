@@ -1,2 +1,3 @@
 - My primary expertise lies in HTML and CSS, with some proficiency in JavaScript.
 - While I have limited experience with GitHub, I am eager to learn and improve.
+- I had ChatGPT write this shit :/
