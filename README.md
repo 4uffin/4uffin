@@ -3,5 +3,3 @@
 - I had ChatGPT write this shit :/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4uffin&theme=dark&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4uffin&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-![Profile repo size](https://img.shields.io/github/repo-size/4uffin/4uffin?style=flat-square&label=Profile%20Size)
