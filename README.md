@@ -1,4 +1,4 @@
-- My primary expertise lies in HTML and CSS, with some proficiency in JavaScript and Python.
+- Languages: HTML, CSS, JavaScript, and Python.
 - I think I'm getting better with GitHub... but who knows? 🤷‍♂️
 - I had ChatGPT write this shit :/
 
