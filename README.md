@@ -1,6 +1,5 @@
 - Languages: HTML, CSS, JavaScript, and Python.
 - I think I'm getting better with GitHub... but who knows? 🤷‍♂️
-- I had ChatGPT write this shit :/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
