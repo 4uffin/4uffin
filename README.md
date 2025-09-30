@@ -7,4 +7,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/Data%20Format-JSON-blue?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4uffin&theme=dark&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4uffin&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4uffin&theme=dark&show_icons=true&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4uffin&theme=dark&show_icons=true&hide_border=true&layout=compact) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4uffin&theme=dark)](https://git.io/streak-stats)
