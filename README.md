@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=4uffin" alt="4uffin" />
+
 - Languages: HTML, CSS, JavaScript, and Python.
 - I think I'm getting better with GitHub... but who knows? 🤷‍♂️
 
